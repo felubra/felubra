@@ -15,4 +15,4 @@
 - 🔭 I’m currently looking for a job as a front-end developer.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=felubra&count_private=true&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felubra)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felubra&layout=compact)]
