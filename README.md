@@ -12,6 +12,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![CodersRank profile](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felubra&branding=false)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=felubra&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felubra&layout=compact)
+![CodersRank profile](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=felubra&branding=false)
